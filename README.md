@@ -1,4 +1,4 @@
-# Hello, i am Helix-D3t0x (aka Shantanu Singh).
+# Hello, i am Shantanu Singh.
 
 Focused on **defensive security** — Malware Analysis, Threat Intelligence, SOC operations and Web Application Security.  
 B.Tech CSE student
