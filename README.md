@@ -1,6 +1,6 @@
 # Hello, i am Shantanu Singh.
 
-Focused on **defensive security** —  SOC operations, Malware Analysis, Threat Intelligence and Web Application Security.  
+Focusing on **defensive security** —  SOC operations, Malware Analysis, Threat Intelligence and Web Application Security.  
 B.Tech CSE student
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shantanu0001&style=flat-square&color=0A66C2&label=Profile+views)
