@@ -71,5 +71,3 @@ I build the tools I work with instead of only running them, and I document what 
 MITRE ATT&CK · ISO/IEC 27001 and 27002 · OWASP Top 10 · STRIDE
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=Shantanu0001&style=flat-square&color=00D4A0&label=Profile+views)
