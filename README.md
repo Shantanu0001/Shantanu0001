@@ -6,10 +6,11 @@ B.Tech Computer Science graduate. Completed a full-time cybersecurity internship
 
 I build the tools I work with instead of only running them, and I document what I find, including the times testing turned up nothing.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4A0?style=flat-square&logoColor=white)](https://shantanu-singh-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-singh-586608268)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://shantanu-singh.medium.com/)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:shantanusingh.sec@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007A56?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgNCAyNCAyNCI%2BPHBhdGggZD0iTSA1LjYgMTAuNCBMIDEyIDE2IEwgNS42IDIxLjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxyZWN0IHg9IjE5LjIiIHk9IjkuMyIgd2lkdGg9IjUuMSIgaGVpZ2h0PSIxMy40IiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B)](https://shantanu-singh-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://linkedin.com/in/shantanu-singh-586608268)
+[![Medium](https://img.shields.io/badge/Medium-374151?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjU0IDEyYTYuOCA2LjggMCAwMS02Ljc3IDYuODJBNi44IDYuOCAwIDAxMCAxMmE2LjggNi44IDAgMDE2Ljc3LTYuODJBNi44IDYuOCAwIDAxMTMuNTQgMTJ6TTIwLjk2IDEyYzAgMy41NC0xLjUxIDYuNDItMy4zOCA2LjQyLTEuODcgMC0zLjM5LTIuODgtMy4zOS02LjQyczEuNTItNi40MiAzLjM5LTYuNDIgMy4zOCAyLjg4IDMuMzggNi40Mk0yNCAxMmMwIDMuMTctLjUzIDUuNzUtMS4xOSA1Ljc1LS42NiAwLTEuMTktMi41OC0xLjE5LTUuNzVzLjUzLTUuNzUgMS4xOS01Ljc1QzIzLjQ3IDYuMjUgMjQgOC44MyAyNCAxMnoiLz48L3N2Zz4%3D)](https://shantanu-singh.medium.com/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-374151?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiLz48L3N2Zz4%3D)](https://x.com/helix_d3t0x)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwIDRINEMyLjkgNCAyIDQuOSAyIDZ2MTJjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDRsLTggNS04LTVWNmw4IDUgOC01djJ6Ii8%2BPC9zdmc%2B)](mailto:shantanusingh.sec@proton.me)
 
 **Open to:** SOC Analyst · Detection Engineer · Malware Analyst · Threat Intelligence Analyst
 
@@ -21,15 +22,15 @@ I build the tools I work with instead of only running them, and I document what 
 |---|---|
 | [**WinSpector**](https://github.com/Shantanu0001/winspector) | User-mode Windows EDR in Python. Process watcher, LOLDrivers hash scanner (623 entries), Sysmon and event-log miner, and a 26-rule MITRE ATT&CK scoring engine. Validated live against process injection, LSASS access, PowerShell cradles and LOLBin abuse. Elasticsearch export, 2 Sigma rules. |
 | [**SOC Analyst Home Lab**](https://github.com/Shantanu0001/soc-analyst-training) | VMware lab with Splunk, Sysmon and TheHive 5. Ran Atomic Red Team techniques (T1110.001, T1003.001, T1059.001), wrote custom SPL detections and documented each investigation end to end. |
-| [**AWS Practice Lab: MedFlow Claims**](https://github.com/Shantanu0001/AWS-Practice-Lab) | Staged AWS security architecture lab: two-AZ VPC, SSM-managed private EC2, encrypted RDS, CloudTrail, CloudFormation. Includes a 35-section design doc with STRIDE threat modelling. A learning lab, not a production system. |
+| [**AWS Practice Lab: MedFlow Claims**](https://github.com/Shantanu0001/AWS-Practice-Lab) | Staged AWS security architecture lab: two-AZ VPC, SSM-managed private EC2, encrypted RDS, CloudTrail, CloudFormation. Includes a 35-section design doc with STRIDE threat modelling. Stage 1 was built on AWS and torn down; later stages are mostly design. A learning lab, not a production system. |
 | [**Malware Analyzer**](https://github.com/Shantanu0001/Malware-Analyzer) | Python framework for static (PE parsing, YARA, entropy) and dynamic (process, filesystem and network monitoring) analysis, with HTML and JSON reports. |
 
 ## Research
 
 - **[AI red-teaming case study](https://github.com/Shantanu0001/security-research/blob/main/AI-Security/AI-Red-Team-Case-Study%283-Agents%29.md)** — manual prompt-injection testing of three sandboxed AI agents, about 200 logged attempts. No confirmed vulnerability; the write-up covers methodology and the defences I observed.
 - **[VBS.LoveLetter malware analysis](https://github.com/Shantanu0001/Malware-analysis-reports)** — 23-page static and dynamic report from a FlareVM lab. Maps to 14 ATT&CK techniques, with YARA and Sigma rules.
-- **[Snort++ rulesets for RAT families](https://github.com/Shantanu0001/snort-rules-for-malwares)** — 40 rules for DarkComet and AsyncRAT covering C2, DNS and behavioural detection.
-- **[CTF write-ups](https://github.com/Shantanu0001/CTF-Writeups)**
+- **[Snort++ rulesets for RAT families](https://github.com/Shantanu0001/snort-rules-for-malwares)** — 40 rules each for DarkComet and AsyncRAT (80 in total) covering C2, DNS and behavioural detection, plus general-purpose IDS and IPS rulesets.
+- **[CTF write-ups](https://github.com/Shantanu0001/CTF-Writeups)** — HTB Sherlock, TCS HackQuest and Terrier Cyber Quest 2026.
 
 ---
 
@@ -69,5 +70,3 @@ I build the tools I work with instead of only running them, and I document what 
 ## Frameworks
 
 MITRE ATT&CK · ISO/IEC 27001 and 27002 · OWASP Top 10 · STRIDE
-
----
